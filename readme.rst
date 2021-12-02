@@ -1,4 +1,7 @@
-## Tentang aplikasi
+###################
+Tentang aplikasi
+###################
+
 Aplikasi ini merupakan aplikasi kasir(POS) untuk kedai minuman hareudang drink, dibuat dengan Codeigniter 3.
 akun:
 username: admin
@@ -15,3 +18,4 @@ a rich set of libraries for commonly needed tasks, as well as a simple
 interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
+
