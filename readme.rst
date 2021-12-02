@@ -3,8 +3,11 @@ Tentang aplikasi
 ###################
 
 Aplikasi ini merupakan aplikasi kasir(POS) untuk kedai minuman hareudang drink, dibuat dengan Codeigniter 3.
+
 akun:
+
 username: admin
+
 password: admin
 
 ###################
